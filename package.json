@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/zeosamaster/webpack-4-quickstart#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
     "webpack": "^4.8.3",
     "webpack-cli": "^2.1.3"
   }
